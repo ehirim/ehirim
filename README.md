@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm <b>Ehirim Uchenna W.</b></h1>
 
-<h4 align="center">Tutor 📝| Developer Advocate 🥑| Self-Taught Techie/Developer 👩🏾‍🎓</h4>
+<h4 align="center">Tutor 📝| Tech/Developer Advocate 👩🏾‍🎓</h4>
 
 <p align="center"> <a href="https://twitter.com/donwilly00" target="blank"><img src="https://img.shields.io/twitter/follow/donwilly00?logo=twitter&style=for-the-badge" alt="uche_twitter" width="250px"/></a> </p>
 
