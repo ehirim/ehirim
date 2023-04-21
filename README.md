@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm <b>Ehirim Uchenna W.</b></h1>
 
-<h4 align="center">Tutor 📝| Tech/Developer Advocate 👩🏾‍🎓</h4>
+<h4 align="center">Tutor 📝| Tech / Developer Advocate 👩🏾‍🎓</h4>
 
 <p align="center"> <a href="https://twitter.com/donwilly00" target="blank"><img src="https://img.shields.io/twitter/follow/donwilly00?logo=twitter&style=for-the-badge" alt="uche_twitter" width="250px"/></a> </p>
 
@@ -8,7 +8,7 @@
 
 <p></p>
 <h1>💥 About Me 💥</h1>
-<p align='justify'>I am an individual with a strong passion for making an impact on the 🌍 world through Tech. I am an ardent learner and I believe that, when you think deeply about a problem being faced with, a solution would materialize. Learning never stops though!  </p>
+<p align='justify'>I am an individual with a strong passion for making an impact on the 🌍 world through Tech. I am an ardent learner 🤓 and I believe that, when you think deeply about a problem being faced with, a solution would materialize. Learning never stops though! 💯 </p>
 
 
 <p></p>
