@@ -5,8 +5,6 @@
 
 <p align="center"> <a href="https://twitter.com/donwilly00" target="blank"><img src="https://img.shields.io/twitter/follow/donwilly00?logo=twitter&style=for-the-badge" alt="uche_twitter" width="300px"/></a> </p>
 
-<img src="(https://i.pinimg.com/originals/6d/80/2f/6d802ffd14b32795b4deb0b886a7815a.gif)" width="200px" height="200px" />
-
 <p></p>
 <h1>💥 About Me 💥</h1>
 <p align='justify'>I am an individual with a strong passion for making an impact on the 🌍 world through Tech. I am an ardent learner and I believe that, when you think deeply about a problem being faced with, a solution would materialize. Learning never stops though!  </p>
@@ -21,8 +19,7 @@
 
 <p></p>
 <h3> Let's Connect! </h3>
-
-<p></p>          
+         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20px" height="20px" /> [On Twitter](https://www.twitter.com/donwilly00)         
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" height="20px" /> [On LinkedIn](https://www.linkedin.com/in/uchennaehirim)
