@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm **Ehirim Uchenna W.**
 
-<img src="https://i.pinimg.com/originals/6d/80/2f/6d802ffd14b32795b4deb0b886a7815a.gif" alt="hello" style=" width:60px ; height:60px "/>
+<img src="https://i.pinimg.com/originals/6d/80/2f/6d802ffd14b32795b4deb0b886a7815a.gif" alt="hello" style=" width:260px ; height:260px ; align:"center" "/>
 
 <!--
 **ehirim/ehirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
