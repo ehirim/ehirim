@@ -20,9 +20,9 @@
 <p></p>
 <h3> Let's Connect! </h3>
          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20px" height="20px" /> [On Twitter](https://www.twitter.com/donwilly00)         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20px" height="15px" /> [On Twitter](https://www.twitter.com/donwilly00)         
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" height="20px" /> [On LinkedIn](https://www.linkedin.com/in/uchennaehirim)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" height="15px" /> [On LinkedIn](https://www.linkedin.com/in/uchennaehirim)
           
 
 
