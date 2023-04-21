@@ -21,11 +21,12 @@
 <p></p>
 <h2> 🤩 Let's Connect! 🤩</h2>
          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="25px" height="15px" /> [On Twitter](https://www.twitter.com/donwilly00)         
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px" height="15px" /> [On LinkedIn](https://www.linkedin.com/in/uchennaehirim)
+<p align="left">
+<a href="https://twitter.com/donwilly00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="donwilly00" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/uchennaehirim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/uchennaehirim" height="30" width="40" /></a>
+</p>
           
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehirim&show_icons=true&locale=en" alt="ehirim" /></p>
 
 <!--
 **ehirim/ehirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
