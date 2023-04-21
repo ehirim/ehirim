@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://twitter.com/donwilly00" target="blank"><img src="https://img.shields.io/twitter/follow/donwilly00?logo=twitter&style=for-the-badge" alt="uche_twitter" width="250px"/></a> </p>
 
-<img align='center' src="file:///C:/Users/White%20Angel/Downloads/hello_world.gif" width="500px" height="500px" />
+<img align='center' src="(https://i.pinimg.com/originals/6d/80/2f/6d802ffd14b32795b4deb0b886a7815a.gif)" width="300px" height="300px" />
 
 <p></p>
 <h1>💥 About Me 💥</h1>
