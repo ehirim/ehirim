@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋, I'm <b>Ehirim Uchenna W.</b></h1>
 
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: ehirimwu@gmail.com
+
+
 <h4 align="center">Tutor 📝| Tech / Developer Advocate 👩🏾‍🎓</h4>
 
 <p align="center"> <a href="https://twitter.com/donwilly00" target="blank"><img src="https://img.shields.io/twitter/follow/donwilly00?logo=twitter&style=for-the-badge" alt="uche_twitter" width="250px"/></a> </p>
@@ -29,6 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehirim&show_icons=true&locale=en" alt="ehirim" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehirim" alt="ehirim" /></a> </p>
+
+
 
 <!--
 **ehirim/ehirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
