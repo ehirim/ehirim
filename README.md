@@ -1,7 +1,8 @@
-<h1 align="center">Hi there 👋, I'm <b>Ehirim Uchenna W.</b></h1>
+<h1 align="center">Hi there 👋, I'm <b>Williams</b></h1>
+<h3 align="center">A Software Engineer</h3>
 
 - 😄 Pronouns: He/Him
-- 📧 How to reach me: ehirimwu@gmail.com
+- 📧 You can reach me on: ehirimwu@gmail.com
 - 🗺📍 I am from Nigeria 🇳🇬
 
 
