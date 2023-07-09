@@ -36,7 +36,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehirim" alt="ehirim" /></a> </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ehirim&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehirim)
 
 
 
